@@ -1,114 +1,47 @@
-<h1 align="center">👋 Olá, eu sou Clair Zumba</h1>
+# Arnaldo Zumba
 
-<p align="center">
-🎓 Estudante apaixonado por tecnologia <br>
-💻 Desenvolvedor em evolução <br>
-🚀 Construindo projetos reais e aprendendo todos os dias
-</p>
+Programador full stack júnior, de Malanje, Angola.
 
----
+Faço sistemas web e programas de Windows com base de dados: agendamentos, faturação, caixa de vendas. Sou autodidata e programo há cerca de três anos. Estudei lógica e algoritmos em VisuAlg (Portugol), trabalho com C#, HTML, CSS e JavaScript e estou a aprofundar PHP e SQL. Aprendo construindo projetos completos, do ecrã à base de dados.
 
-# 🚀 Sobre Mim
+Aberto a propostas de trabalho.
 
-Sou um desenvolvedor em formação com foco em criar projetos modernos, funcionais e úteis.
+## Projetos
 
-Tenho interesse em:
+**Agendamento de consultas, Hospital Regional de Malanje**
+Sistema para marcar e gerir consultas, pensado para o Hospital Regional de Malanje.
+`HTML` `CSS` `JavaScript` `PHP`
 
-✨ Desenvolvimento Web  
-✨ Aplicações Desktop  
-✨ Inteligência Artificial  
-✨ Banco de Dados  
-✨ Segurança Web  
-✨ Interfaces modernas  
+**Faturação e Gestão Comercial**
+Programa de Windows para emitir faturas e controlar vendas.
+`C#` `WinForms` `Base de dados`
 
----
+**Ponto de Venda (PDV)**
+Caixa com carrinho de compras, cálculo de total e troco.
+`C#` `WinForms` `SQL Server`
 
-# 🛠️ Tech Stack
+**App de Clima**
+Mostra a previsão do tempo do local onde o utilizador está, usando a API Open-Meteo.
+`JavaScript` `API REST`
 
-## 🌐 Front-End
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+## Tecnologias
 
-## ⚙️ Back-End
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-</p>
+| Nível | Tecnologias |
+|---|---|
+| Uso no dia a dia | HTML, CSS, JavaScript, C# (WinForms), SQL Server, MySQL |
+| A aprofundar | PHP, PostgreSQL, Node.js e Express |
+| A aprender agora | React, ASP.NET Core, React Native, APIs REST |
 
-## 🗄️ Banco de Dados
-<p>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+Base: lógica de programação e algoritmos (VisuAlg, Portugol)
+Ferramentas: Git, GitHub, VS Code, Visual Studio, Postman
 
-## 🧰 Ferramentas
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-</p>
+## Idiomas e cursos
 
----
+Português e Inglês (B1).
+Cursos: Prompt Engineering, Vibe Coding, SEO com IA, Social Media com IA.
 
-# 📚 Atualmente Estudando
+## Contacto
 
-- 📌 JavaScript Avançado
-- 📌 Banco de Dados
-- 📌 Desenvolvimento Full Stack
-- 📌 React Native
-- 📌 Engenharia de Prompt para IA
-- 📌 Copywriting Estratégico
-
----
-
-# 💡 Projetos em Desenvolvimento
-
-## 🎓 Sistema de Gestão Escolar
-✔️ Cadastro de alunos  
-✔️ Gestão de notas  
-✔️ Login de usuários  
-✔️ Painel administrativo  
-✔️ Sistema de notificações  
-
----
-
-## 🚗 Clone de Aplicativo de Transporte
-Projeto inspirado no Uber utilizando:
-
-- HTML
-- CSS
-- JavaScript puro
-
----
-
-## 📖 Plataforma Cultural Angolana
-Website focado em:
-
-📚 Literatura  
-🎤 Eventos  
-🖼️ Galeria de fotos  
-🌍 Divulgação cultural  
-
----
-
-# 🎯 Objetivos
-
-🎯 Tornar-me um desenvolvedor Full Stack  
-🎯 Criar soluções reais para problemas locais  
-🎯 Construir projetos profissionais  
-🎯 Evoluir constantemente na programação  
-
----
-
-# 📊 GitHub Status
-
-```txt
-🚀 Sempre aprendendo
-💡 Sempre construindo
-🔥 Sempre evoluindo
+- Email: [Clairzumba54@gmail.com](mailto:Clairzumba54@gmail.com)
+- WhatsApp: [+244 931 283 329](https://wa.me/244931283329)
+- LinkedIn: [Arnaldo Zumba](https://ao.linkedin.com/in/arnaldo-zumba-086a6b341)
